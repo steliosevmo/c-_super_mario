@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  EndPage.cpp
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(16,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(17,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(18,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(19,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(31,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(31,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(31,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(31,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(38,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(41,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(45,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(47,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Υπολογιστής\Game\Game\EndPage.cpp(48,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.vcxproj -> C:\Users\user\OneDrive\Υπολογιστής\Game\bin\Gamed.exe
